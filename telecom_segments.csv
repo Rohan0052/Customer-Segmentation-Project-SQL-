@@ -1,0 +1,5 @@
+segment_id,criteria,s_name,description
+1,999 > Monthly usage > 499,Basic,Basic plans with minimum benefits
+2,1499 > Monthly usage > 999,Gold,Gold plan with loyalty benefits
+3,2199 > Monthly usage > 1499,Platinum,Platinum plan with priority benefits
+4,2999 > Monthly usage > 2199,Black,Black plan with presidential benefits
